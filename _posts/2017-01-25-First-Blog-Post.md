@@ -1,5 +1,5 @@
 ---
-layout: default 
+
 title: First blog post 
 meta: Hello world 
 category: news
