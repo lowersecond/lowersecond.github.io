@@ -1,0 +1,15 @@
+---
+layout: default 
+---
+
+<h1>News</h1>
+<p> My Blog posts</p>
+
+<ul>
+    {% for news in site.posts %}
+    <li> 
+    <a href="">{{news.title}}</a>
+    <p>{{news.meta}}</p>
+    </li>
+    {% endfor %}
+</ul>
