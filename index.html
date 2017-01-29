@@ -1,7 +1,20 @@
 ---
 layout: default
 ---
-    <h1> Hello World</h1>
-    <p> I'm hosted with Github pages. </p>
-    <p> The quick brown fox jumped over the lazy sheepdog</p>
-  
+
+<div id="home">
+    <h1> My name is Tom Green</h1>
+    <p> The blog following the process of creating a website from scratch from somebody with no formal computer science experience. </p>
+    <p> This blog is hosted with Github pages via Jekyll. </p>
+    <p> My website is located at www.lowersecond.com</p> 
+
+<ul>
+    {% for news in site.categories.news limit:2 %}
+    <li>
+        <a href="{{ news.url }}">{{news.title}}</a>
+        <p>{{news.meta}}</p>
+    </li>
+    {% endfor %}
+</ul>
+
+</div>
