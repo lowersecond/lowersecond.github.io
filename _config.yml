@@ -27,5 +27,5 @@ github_username:  lowersecond
 # Build settings
 markdown: kramdown
 exclude:
-  - README.md
+   README.md
   permalink: pretty
