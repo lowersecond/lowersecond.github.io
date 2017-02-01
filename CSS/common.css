@@ -1,8 +1,11 @@
 html{
-    margin: 0;
+    margin: 3em auto 2em auto;
     padding: 0;
+    height: 100%;
+    width: 40em;
     
-    font-family: 'Arvo', serif;
+    font-family: 'helvetica','Arvo', serif;
+    font-size: 15.34px;
 }
 
 .current{
@@ -34,4 +37,16 @@ html{
     font-weight: bold;
     margin-bottom: 2em;
     display: 
+}
+
+body { 
+    background-color: white;
+    height: 100%;
+    text-align: justify;
+}
+
+#page-wrap {
+    text-align: left;
+    width: 1000px;
+    margin: 0 auto;
 }
