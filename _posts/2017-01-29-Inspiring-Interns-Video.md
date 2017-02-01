@@ -17,7 +17,7 @@ Working within the NHS has given me exposure to a wide variety of people from al
 
 I am passionate about Digital media and technology, and since graduating I have continued to develop my skills by learning computer programming and web design languages such as HTMl, CSS and Javascript. 
 
-I know the benifits of both determination and hard work, having raced in btoh triathlons and half marathons. Both of which demonstrate my drive and my competitive spirit. 
+I know the benifits of both determination and hard work, having raced in both triathlons and half marathons. Both of which demonstrate my drive and my competitive spirit. 
 
 During my free time I also enjoy Show Jumping, downhill skiing and Sailing. All of which have helped develop me into the well-rounded individual I am today. 
 
